@@ -1,3 +1,10 @@
+---
+title: Top-down学习法
+date: 2026-01-12
+categories: [学习方法, AI开发]
+tags: [Top-down, 学习法, Agent开发, 知识管理]
+---
+
 # Top-down学习法
 
 1） **每个季度先定义一个“成品” （Product Definition）**
